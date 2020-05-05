@@ -1,0 +1,50 @@
+* {
+    font-family: "Lucida Console", Courier, monospace;
+    color: white;
+}
+
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+.container {
+    margin:100px;    
+}
+
+canvas {
+    background-color: black;
+    margin: auto;
+    display: block;
+}
+
+.row {
+    height: 850px;
+    margin-bottom: 35px;
+    margin-right: 50px;
+    width: 850px;
+    display: inline-block;
+}
+
+.label {
+    margin-bottom: 5px;
+    margin-top: 0;
+    white-space: normal;
+}
+
+.subtext {
+    font-size: 10px;    
+}
+
+.footer {
+    margin-left:100px;
+    margin-bottom: 25px;
+}
+
+.footer a {
+    font-size: 8px; 
+}
+
+.footer p {
+    font-size: 8px; 
+}
